@@ -1,0 +1,8 @@
+# Default ignored files
+/../../ai-resume-analyzer /.idea/shelf/
+/../../ai-resume-analyzer /.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../ai-resume-analyzer /.idea/httpRequests/
+# Datasource local storage ignored files
+/../../ai-resume-analyzer /.idea/dataSources/
+/../../ai-resume-analyzer /.idea/dataSources.local.xml
